@@ -1,2 +1,1 @@
-# CSS-2nd-Homework
-Sélecteurs avancés et affichage
+# week1-css-HW1
